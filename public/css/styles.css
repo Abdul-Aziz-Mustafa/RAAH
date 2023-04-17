@@ -139,6 +139,7 @@ button:hover{
 }
 
 .form2{
+    background-image: url("\images\map2.png");
     width: 100%;
     margin-left: 635px !important;
     margin-top: 250px;
@@ -153,7 +154,7 @@ button:hover{
 }
 
 /* cars.html */
-.float-child{
+float-child{
     width: 50%;
     height: 100%;
     float: left;
